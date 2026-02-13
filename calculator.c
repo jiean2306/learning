@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+//now is on github
 
 void addition() {
 	int a,b,result = 0;
