@@ -58,7 +58,7 @@ def check_collision(pipes_list):
 #Main Game Loop
 while True: 
 	for event in pygame.event.get():
-		if event.type == pygae.QUIT:
+		if event.type == pygame.QUIT:
 			pygame.quit()
 			sys.exit()
 	#tap screen or press key to jump
